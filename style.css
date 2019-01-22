@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.weather-container{
+    background:#ccc;
+    text-align: center;
+}
+.weather, .temp_min, .temp_max{
+    font-size:22px;
+    margin:0;
+}
+
+.temp, .city{
+    font-size: 60px;
+    margin:0;
+    font-weight: bold;
+}
+
